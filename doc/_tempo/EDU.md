@@ -1,0 +1,1 @@
+1. Las secciones Lista no pueden tener campos EDU
